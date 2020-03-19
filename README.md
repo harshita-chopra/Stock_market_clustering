@@ -8,3 +8,14 @@ The k-means clustering algorithm is part of the unsupervised learning family. It
 5. K-elbow visualizer with Silhouette score is used to obtain the optimal value of k on reduced data.
 6. The two-dimensional PCA-reduced data is fit into the k-means model with 10 clusters and respective labels are predicted.
 7. Two graphs showing clusters are plotted: one with scattered points and other with decision boundaries on colormap.
+
+Outputs are shown below:
+
+
+  ![K-elbow visualization](https://raw.githubusercontent.com/harshita219/Stock_market_clustering/master/output_images/kelbow.PNG)
+  
+  ![Labelling](https://raw.githubusercontent.com/harshita219/Stock_market_clustering/master/output_images/clusters.PNG)
+   
+  ![Clusters plotting 1](https://raw.githubusercontent.com/harshita219/Stock_market_clustering/master/output_images/plot1.PNG)
+   
+  ![Clusters plotting 2](https://raw.githubusercontent.com/harshita219/Stock_market_clustering/master/output_images/plot2.PNG)
